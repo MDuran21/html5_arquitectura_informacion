@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+  color: aliceblue;
+  list-style: none;
+}
+
+.navLinks {
+  display: flex; /* Coloca los elementos en fila */
+}
+.navLinks li {
+  margin: 20px;
+}
+a {
+  text-decoration: none;
+}
+/* Iba a hacer una barra de navegación más guay pero he visto que se necesita
+usar flexbox y he decidido dejarlo así :( */
