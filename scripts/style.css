@@ -3,9 +3,13 @@
   color: aliceblue;
   list-style: none;
 }
+main {
+  margin-left: 50px;
+}
 
 .navLinks {
-  display: flex; /* Coloca los elementos en fila */
+  display: flex;
+  /* Coloca los elementos en fila */
 }
 .navLinks li {
   margin: 20px;
