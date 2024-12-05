@@ -6,7 +6,6 @@
 main {
   margin-left: 50px;
 }
-
 .navLinks {
   display: flex;
   /* Coloca los elementos en fila */
@@ -16,6 +15,9 @@ main {
 }
 a {
   text-decoration: none;
+}
+.h3 {
+  color: #ffce1f;
 }
 /* Iba a hacer una barra de navegación más guay pero he visto que se necesita
 usar flexbox y he decidido dejarlo así :( */
